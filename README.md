@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>HIHIHIHIHIHI</h1>
+
+<script>
+  console.log("Hello World");
+</script>
